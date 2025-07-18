@@ -1,23 +1,23 @@
-<h1 align="center">Hola 👋</h1>
-<p align="center">Estudiante de Magíster en Ingeniería Eléctrica · Universidad de Chile · Investigador en IA Médica 🧠</p>
+<h1 align="center">Hi there 👋</h1>
+<p align="center">Master’s Student in Electrical Engineering · University of Chile · Medical AI Researcher 🧠</p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-Soy estudiante de Magíster en Ciencias de la Ingeniería, mención Eléctrica, con un fuerte interés en inteligencia artificial aplicada a la medicina. Actualmente participo como investigador en el equipo de **iHealth**, trabajando en proyectos de segmentación de imágenes médicas cerebrales, combinando arquitecturas como **U-Net**, **Visual Transformers** y modelos como **FastSurfer**.
-
----
-
-### 🧪 Proyectos actuales
-
-- 🎓 **Tesis de Magíster**:  
-  *"Detección de displasia cortical focal usando arquitecturas basadas en Transformers y CNNs en MRI cerebrales."*  
-  Implementado en PyTorch con énfasis en interpretabilidad y eficiencia.
+I am a Master’s student in Electrical Engineering at the University of Chile with a strong interest in artificial intelligence applied to medicine. Currently, I am a researcher at **iHealth**, working on brain medical image segmentation projects, combining architectures such as **U-Net**, **Visual Transformers**, and medical-oriented models like **FastSurfer**.
 
 ---
 
-### 🔧 Tecnologías y herramientas
+### 🧪 Current Projects
+
+- 🎓 **Master’s Thesis**:  
+  *"Focal Cortical Dysplasia detection using Transformer- and CNN-based architectures on brain MRI."*  
+  Implemented in PyTorch, with an emphasis on interpretability and efficiency.
+
+---
+
+### 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -28,35 +28,36 @@ Soy estudiante de Magíster en Ciencias de la Ingeniería, mención Eléctrica, 
 
 ---
 
-### 📚 Experiencia académica destacada
+### 📚 Relevant Academic Experience
 
-- 📍 **Trabajo Dirigido**: Aplicación de técnicas XAI (GradCam, GradCam++, SHAP) en modelos de detección de tumores cerebrales.
-- 🧠 **Ayudante y profesor auxiliar** en distintos cursos del Departamento de Ingeniería Eléctrica (DIE).
-- 🗣️ **Expositor invitado** en seminarios de investigación de IHealth (2025).
-
----
-
-### 🏆 Distinciones
-
-- ⭐ Parte de la **Lista de Alumnos Destacados** por rendimiento académico (FCFM, 2020–2024).
-- 💡 Reconocimiento por **Espíritu Eléctrico** en el DIE, FCFM, por compromiso, excelencia y aporte.
-- 🎙️ Expositor en eventos académicos de IHealth.
+- 📍 **Directed Research Project**: Application of XAI techniques (GradCam, GradCam++, SHAP) on state-of-the-art brain tumor detection models.
+- 🧠 **Teaching Assistant and Adjunct Instructor** in several courses at the Department of Electrical Engineering (DIE), University of Chile.
+- 🗣️ **Invited Speaker** at iHealth Research Symposium (2025).
 
 ---
 
-### 🎯 Objetivo actual
+### 🏆 Distinctions
 
-Estoy en búsqueda de nuevas oportunidades profesionales donde pueda aplicar mis conocimientos en inteligencia artificial, visión computacional y procesamiento de señales para resolver problemas reales, especialmente en el área médica o científica.
+- ⭐ Selected for the **Outstanding Student List** due to academic performance (FCFM, 2020–2024).
+- 💡 Recognized with the **“Espíritu Eléctrico”** award by DIE, FCFM, for commitment and contribution to the department.
+- 🎙️ Speaker at academic events organized by iHealth.
 
 ---
 
-### 📫 ¿Hablamos?
+### 🎯 Current Goal
 
-- 📍 Santiago, Chile
-- 📧 bruno.araya.h@ug.uchile.cl
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-araya/) *(si tienes uno, agrégalo)*
+I am currently seeking new professional opportunities where I can apply my knowledge in artificial intelligence, computer vision, and signal processing to solve real-world challenges, especially in the medical and scientific domains.
+
+---
+
+### 📫 Let's Connect
+
+- 📍 Santiago, Chile  
+- 📧 bruno.araya.h@ug.uchile.cl  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-araya/) *(if you have one)*  
 - 🐙 GitHub: [@bruno-araya](https://github.com/bruno-araya)
 
 ---
 
-> “La inteligencia artificial no reemplazará al médico, pero el médico que la use, reemplazará al que no lo haga.” – Parafraseando a Eric Topol.
+> “AI will not replace doctors, but the doctors who use AI will replace those who don’t.” – Paraphrased from Eric Topol.
+
