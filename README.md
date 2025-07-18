@@ -15,9 +15,6 @@ Soy estudiante de Magíster en Ciencias de la Ingeniería, mención Eléctrica, 
   *"Detección de displasia cortical focal usando arquitecturas basadas en Transformers y CNNs en MRI cerebrales."*  
   Implementado en PyTorch con énfasis en interpretabilidad y eficiencia.
 
-- 🧬 **IHealth Research**:  
-  Optimización de modelos 3D para segmentación médica con foco en redes tipo U-Net y variantes basadas en visión por computadora.
-
 ---
 
 ### 🔧 Tecnologías y herramientas
