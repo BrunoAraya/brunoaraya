@@ -54,7 +54,7 @@ I am currently seeking new professional opportunities where I can apply my knowl
 
 - 📍 Santiago, Chile  
 - 📧 bruno.araya.h@ug.uchile.cl  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-araya/) *(if you have one)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-araya/)
 - 🐙 GitHub: [@bruno-araya](https://github.com/bruno-araya)
 
 ---
